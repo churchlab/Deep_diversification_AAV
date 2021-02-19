@@ -2,7 +2,7 @@
 This document summarizes the two main components of the bioinformatics analysis that was used to generate and parsed data for the paper [Deep diversification of an AAV capsid protein by machine learning](https://www.nature.com/articles/s41587-020-00793-4#Abs1). For machine learning models [see this](https://github.com/google-research/google-research/tree/master/aav). 
 
 
-A processed version of the final data is available in the data folder. For raw sequencing data [see NCBI](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA673640/). 
+A processed version of the data is available in the data folder (this should look similar to what the pipeline processing outputs). For additional annotation, and inclusion of training data use [this dataset](https://github.com/alibashir/aav). For raw sequencing data [see NCBI](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA673640/). 
 
 +   [Synthesis pipeline](#synthesis-pipeline)
 	+   *Step 1*: Assembles the nucleotide sequence for the corresponding protein sequence variants such that it can be generated and processe with the desired cloning strategy. 
