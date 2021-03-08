@@ -1,5 +1,5 @@
 # Bioinformatics pipeline overview 
-This document summarizes the two main components of the bioinformatics analysis that was used to generate and parsed data for the paper [Deep diversification of an AAV capsid protein by machine learning](https://www.nature.com/articles/s41587-020-00793-4#Abs1). For machine learning models [see this](https://github.com/google-research/google-research/tree/master/aav). 
+This document summarizes the two main components of the bioinformatics analysis that was used to generate and parsed data for the paper [Deep diversification of an AAV capsid protein by machine learning](https://www.nature.com/articles/s41587-020-00793-4#Abs1). For machine learning models [see this](https://github.com/google-research/google-research/tree/master/aav).  Processed data can be found [here](https://github.com/alibashir/aav). 
 
 
 A processed version of the data is available in the data folder (this should look similar to what the processing  pipeline  outputs). For additional annotation, and inclusion of training data use [this dataset](https://github.com/alibashir/aav). For raw sequencing data [see NCBI](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA673640/). 
